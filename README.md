@@ -18,3 +18,7 @@ Centralizar os materiais do portfólio em um site simples, versionado no GitHub 
 ## Segurança
 
 O site foi montado como página estática, sem banco de dados, login ou coleta de dados pessoais.
+
+## Link do projeto
+
+Acesse o portifólio pelo site clicando em: https://jinsol-w.github.io/portifolioHUB/
